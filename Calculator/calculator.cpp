@@ -7,8 +7,7 @@ int main() {
     float frstn, scndn, set;
     char oprtr;
     string npt;
-
-    cout << "JENNY MAE MONTELLIN" << endl;
+    
     cout << "" << endl;
     cout << "BASIC CALCULATOR" << endl;
     cout << " _______________" << endl;
@@ -74,6 +73,6 @@ int main() {
     cout << "| 1 | 2 | 3 | * |" << endl;
     cout << "|---|---|---|---|" << endl;
     cout << "| 0 | . | = | / |" << endl;
-    cout << "-———————————————— " << endl;
+    cout << "-â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€” " << endl;
     return 0;
 }
